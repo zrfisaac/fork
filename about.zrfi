@@ -4,12 +4,18 @@
 # - author : Isaac Caires
 # . - email : zrfisaac@gmail.com
 # . - site : zrfisaac.github.io
-# - version : zrfisaac.fork : 0.0.2
+# - version : zrfisaac.fork : 0.0.3
 
 # [ list ]
+
+# - : fortes-report
+# . - : https://github.com/zrfisaac/fork.fortes-report.git
 
 # - : shinnil-godot-admob
 # . - : https://github.com/zrfisaac/fork.shinnil-godot-admob.git
 
 # - : simple-icons
 # . - : https://github.com/zrfisaac/fork.simple-icons.git
+
+# - : vscode
+# . - : https://github.com/zrfisaac/fork.vscode.git
