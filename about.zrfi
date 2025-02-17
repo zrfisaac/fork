@@ -4,9 +4,12 @@
 # - author : Isaac Caires
 # . - email : zrfisaac@gmail.com
 # . - site : zrfisaac.github.io
-# - version : zrfisaac.fork : 0.0.1
+# - version : zrfisaac.fork : 0.0.2
 
 # [ list ]
 
 # - : shinnil-godot-admob
 # . - : https://github.com/zrfisaac/fork.shinnil-godot-admob.git
+
+# - : simple-icons
+# . - : https://github.com/zrfisaac/fork.simple-icons.git
